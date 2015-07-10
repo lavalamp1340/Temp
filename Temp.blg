@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Temp.aux
+The style file: philosophy.bst
+format.url is an unknown function---line 1021 of file philosophy.bst
+Database file #1: Dreamboat.bib
+You've used 1 entry,
+            2833 wiz_defined-function locations,
+            596 strings with 4798 characters,
+and the built_in function-call counts, 430 in all, are:
+= -- 30
+> -- 11
+< -- 1
++ -- 6
+- -- 3
+* -- 22
+:= -- 76
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 5
+chr.to.int$ -- 1
+cite$ -- 1
+duplicate$ -- 31
+empty$ -- 38
+format.name$ -- 4
+if$ -- 81
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 7
+newline$ -- 13
+num.names$ -- 4
+pop$ -- 15
+preamble$ -- 1
+purify$ -- 5
+quote$ -- 0
+skip$ -- 17
+stack$ -- 0
+substring$ -- 13
+swap$ -- 11
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 6
+warning$ -- 0
+while$ -- 3
+width$ -- 0
+write$ -- 19
+(There was 1 error message)

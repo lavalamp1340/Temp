@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\newcommand{\enquote}[1]{``#1''}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Enderton(1972)}]{Enderton:1972}
+Enderton, Herbert~B. (1972).
+\newblock {\em A Mathematical Introduction to Logic\/}.
+\newblock Boston: Academic Press.
+
+\end{thebibliography}
